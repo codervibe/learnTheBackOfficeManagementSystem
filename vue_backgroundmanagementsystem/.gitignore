@@ -1,7 +1,7 @@
 .DS_Store
 vue_backgroundmanagementsystem/node_modules
 /dist
-.idea/
+
 
 # local env files
 .env.local
@@ -21,4 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-/node_moudel/
